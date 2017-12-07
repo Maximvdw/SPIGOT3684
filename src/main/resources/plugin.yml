@@ -1,0 +1,9 @@
+name: SPIGOT3684
+version: 1.0
+author: Maximvdw
+main: be.maximvdw.spigot3684.Spigot3684
+
+commands:
+  spigot3684:
+    description: Test cases
+    aliases: [testcase]
