@@ -135,7 +135,7 @@ public class Spigot3684 extends JavaPlugin implements Listener {
 
         // Create the objectives if not exist
         for (ChatColor color : ChatColor.values()) {
-            if (color.ordinal() > 16){
+            if (color.ordinal() > 15){
                 break;
             }
             try {
